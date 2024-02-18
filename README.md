@@ -17,4 +17,5 @@
 ![gm-electric-motor-plant](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/31648a86-069d-4ddb-ba7c-57b37dcd4822)
 ## 5) Converter : ***It can be of three types buck,boost,buck boost.Converter is used to convert either LV(Low voltage) to HV with the help of boost converter or HV to LV using buck converter.This conversion is usually done because some modules in EV car(wiper,Air Conditioner)work on LV and battery is working as HV.Inorder to drive such LV apllication we need conversion of HV to LV and this can be done using such power converters.***
 ![HVdcdc](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/4d75ca35-cd1e-4660-a727-d0da4624c111)
+## Interconnection of all the components in BEV:
 ![Key_parts_Battery_EV](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/3b7a3da3-1615-4135-b0ff-c35805570f80)
