@@ -19,3 +19,19 @@
 ![HVdcdc](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/4d75ca35-cd1e-4660-a727-d0da4624c111)
 ## Interconnection of all the components in BEV:
 ![Key_parts_Battery_EV](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/3b7a3da3-1615-4135-b0ff-c35805570f80)
+## Powertrain Simulink Model:
+![Screenshot (229)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/673b292e-8651-49f9-ac75-6cd84b7c55c0)
+## Vehicle Model
+![Screenshot (230)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/164b4dab-16fb-4958-bb49-aea180f4f45e)
+## Transmission Model
+![Screenshot (231)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/1b947308-7196-4195-937d-b110bff65f32)
+## Motor Model
+![Screenshot (232)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/e5a92686-d338-4e65-8c60-313ed1dfcc3d)
+## Battery Model
+![Screenshot (233)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/08752b98-4500-4a28-92ae-d65744343926)
+## Forces acting on vehicle
+![Screenshot (234)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/0f7e1440-c55b-461c-baf0-ab71c46f1f62)
+## Motor torque,speed and wheel torque,speed
+![Screenshot (235)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/037f80cc-1957-4d31-970d-7eeb531ee6bf)
+## Motor Power, Battery Current, Battery Power, Battery C Rate, State of Charge(SoC)
+![Screenshot (236)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/fa78e97b-cea3-4e42-8c2e-0ad497ff831f)
