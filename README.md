@@ -24,12 +24,19 @@
 ![Screenshot (229)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/673b292e-8651-49f9-ac75-6cd84b7c55c0)
 ## Vehicle Model
 ![Screenshot (230)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/164b4dab-16fb-4958-bb49-aea180f4f45e)
+![Screenshot (237)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/4444965f-4c5e-4b71-9a4f-8ea3dccfd266)
+![Screenshot (238)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/4301b1dc-99c8-453d-9f49-053af93b50f2)
+![Screenshot (239)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/433e2dba-5649-423f-a017-ffe935442c01)
+![Screenshot (240)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/24cd260d-8e14-4d17-aa66-0f9a71f62a6f)
+![Screenshot (241)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/6a5a6543-53ae-44b4-a2c3-e073021dc929)
+![Screenshot (242)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/acdf1d74-1e17-44de-900b-22fcd0b14b4d)
 ## Transmission Model
 ![Screenshot (231)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/1b947308-7196-4195-937d-b110bff65f32)
 ## Motor Model
 ![Screenshot (232)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/e5a92686-d338-4e65-8c60-313ed1dfcc3d)
 ## Battery Model
 ![Screenshot (233)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/08752b98-4500-4a28-92ae-d65744343926)
+![Screenshot (243)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/73751ed5-b5ee-4766-8e97-6acc29779c84)
 ## Forces acting on vehicle : How the resistive force is acting based on input,  drive cycle source
 ![Screenshot (234)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/0f7e1440-c55b-461c-baf0-ab71c46f1f62)
 ## Motor torque,speed and wheel torque,speed : Variation of wheel speeds and motor speeds required based on effective gear ratios
