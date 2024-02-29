@@ -21,7 +21,7 @@
 ![Key_parts_Battery_EV](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/3b7a3da3-1615-4135-b0ff-c35805570f80)
 ## Powertrain Simulink Model:
 ## No of cells in series and no of cells in parallel used to design battery pack , battery capacity in Ah and Wh
-![Screenshot (229)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/673b292e-8651-49f9-ac75-6cd84b7c55c0)
+![updated 229](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/a4e77f44-8d9e-4609-9e21-b38e9e0d1ff9)
 ## Vehicle Model
 ![Screenshot (230)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/164b4dab-16fb-4958-bb49-aea180f4f45e)
 ![Screenshot (237)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/4444965f-4c5e-4b71-9a4f-8ea3dccfd266)
@@ -38,8 +38,8 @@
 ![Screenshot (233)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/08752b98-4500-4a28-92ae-d65744343926)
 ![Screenshot (243)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/73751ed5-b5ee-4766-8e97-6acc29779c84)
 ## Forces acting on vehicle : How the resistive force is acting based on input,  drive cycle source
-![Screenshot (234)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/0f7e1440-c55b-461c-baf0-ab71c46f1f62)
+![updated 234](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/a7683f29-fbae-407a-8b75-a2aa3180a434)
 ## Motor torque,speed and wheel torque,speed : Variation of wheel speeds and motor speeds required based on effective gear ratios
-![Screenshot (235)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/037f80cc-1957-4d31-970d-7eeb531ee6bf)
+![updated 235](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/bc6b4013-79a4-441a-a0c7-3b0876d3bb09)
 ## Motor Power, Battery Current, Battery Power, Battery C Rate, State of Charge(SoC) : how SoC is remaining in our battery pack after one complete cycle
-![Screenshot (236)](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/fa78e97b-cea3-4e42-8c2e-0ad497ff831f)
+![updated 236](https://github.com/anikethmehta/Powertrain-Modelling/assets/52659346/999e4baa-eef6-4cdc-8c8e-c42aca12ecf2)
